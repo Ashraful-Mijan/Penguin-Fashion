@@ -1,0 +1,31 @@
+/* font-list */
+/* font-family: 'Bebas Neue', cursive; */
+/* font list end */
+
+
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;  
+}
+.text-orange {
+    color: #FABE4C;
+}
+.text-blue {
+    color: #363958;
+}
+.bg-btn {
+    background-color: #A4BC46;
+    border: 0;
+}
+.bg-pink {
+    background-color: #FFFBF0;
+}
+.bg-light-gray {
+    background-color: #F1F1F1;
+}
+.border-none {
+    border: 0;
+}
+
